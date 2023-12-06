@@ -1,0 +1,3 @@
+# ITE-Automatas-2
+
+ABRIR SINTACTICOFINAL.JS
